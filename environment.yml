@@ -1,0 +1,19 @@
+name: pyne_debug
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.5
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - cython
+  - numpy
+  - scipy
+  - pandas
+  - nbconvert
+  - nbstripout
+  - pyne=0.5.11=py36_blas_openblas_0
+  - pip
+  - pip:
+    - pyyaml

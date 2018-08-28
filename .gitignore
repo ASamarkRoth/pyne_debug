@@ -1,0 +1,9 @@
+*.pyc
+.ipynb_checkpoints/*
+*.pdf
+*.o
+calc
+AlphaDecaysDataFrame3.p
+calc_gf.c
+calc_gf.cpython*.so
+
